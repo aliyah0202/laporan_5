@@ -1,0 +1,6 @@
+nama-nama buah:
+   Apel
+   Mangga
+   Pir
+   Strowberry
+   Jeruk
